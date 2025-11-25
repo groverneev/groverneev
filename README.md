@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1>Hi there, I'm Neev Grover!</h1>
 
-I'm Neev Grover, a Sophomore at The Harker School. I am passionate about Computer Science and Chess, and I enjoy building projects, playing competitive chess, and writing about technology on my blog.
+## About Me
 
+I am a Sophomore at The Harker School, passionate about AI, coding, and chess!
+
+## Skills
+
+- Python
+- Java
+- Swift (App Development)
+- ReactJS/React
+
+## Links
+
+<a> href="https://neevgrover.com" stuff </a>
+
+## Contact Me
