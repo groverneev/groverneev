@@ -8,8 +8,9 @@ I am a Sophomore at The Harker School, passionate about AI, coding, and chess.
 
 - Python
 - Java
+- TypeScript
+- Next.js
 - Swift (App Development)
-- ReactJS/React
 
 ## Links
 
