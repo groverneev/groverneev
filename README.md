@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Sophomore at The Harker School, passionate about AI, coding, and chess!
+I am a Sophomore at The Harker School, passionate about AI, coding, and chess.
 
 ## Skills
 
@@ -13,6 +13,8 @@ I am a Sophomore at The Harker School, passionate about AI, coding, and chess!
 
 ## Links
 
-<a> href="https://neevgrover.com" stuff </a>
+<a href="https://neevgrover.com" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Website-blue?style=for-the-badge" />
+</a>
 
 ## Contact Me
