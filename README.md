@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**groverneev/groverneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Neev Grover, a Sophomore at The Harker School. I am passionate about Computer Science and Chess, and I enjoy building projects, playing competitive chess, and writing about technology on my blog.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
