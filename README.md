@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Sophomore at The Harker School, passionate about AI, coding, and chess.
+I am a Sophomore at the Harker School passionate about Computer Science, Chess, and the Environment.
 
 ## Skills
 
