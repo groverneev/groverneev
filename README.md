@@ -50,7 +50,7 @@ I am a Sophomore at the Harker School passionate about Computer Science, Chess, 
   Follow me on X
 </a>
 
-<a href="https://www.linkedin.com/in/neev-grover-3bb873332" target="_blank" style="
+<a href="https://www.linkedin.com/in/neevgrover" target="_blank" style="
   display: inline-block;
   padding: 8px 14px;
   background-color: #0078ff;
