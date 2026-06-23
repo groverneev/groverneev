@@ -4,9 +4,10 @@
 
 I am a rising Junior at the Harker School, passionate about Computer Science, Chess, and the Environment.
 
-## Skills
+## Languages I Use
 
 - Python
+- C++
 - Java
 - TypeScript
 - Next.js
