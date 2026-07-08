@@ -6,8 +6,8 @@ I am a rising Junior at the Harker School, passionate about Computer Science, Ch
 
 ## Languages I Use
 
-- Python
 - C++
+- Python
 - Java
 - TypeScript
 - Next.js
