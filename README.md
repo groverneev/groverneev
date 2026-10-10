@@ -10,7 +10,6 @@ I am a rising Junior at the Harker School, passionate about Computer Science, Ch
 - Python
 - Java
 - TypeScript
-- HTML
 - JavaScript
 - Swift
 
