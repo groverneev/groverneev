@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a rising Junior at the Harker School, passionate about Computer Science, Chess, and the Environment.
+I am a Junior at the Harker School, passionate about Computer Science, Chess, and the Environment.
 
 ## Languages I Use
 
